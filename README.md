@@ -12,7 +12,7 @@ Dentro de cada categoría hay una carpeta que corresponde al año.
 
 ### Trabajos
 Documento elaborado con la ayuda de los datos anteriores: [_Pronóstico de feminicidios en México usando Holt-Winters_](https://github.com/Cuadernin)
-Dashboard creado en Power BI acerca de la violencia contra la mujer en 2020 [Soon](https://github.com/Cuadernin)
+Dashboard creado en Power BI acerca de la violencia contra la mujer en 2020: [Soon](https://github.com/Cuadernin)
 
 ## Descarga
 **[Descargar datos](https://drive.google.com/file/d/1v9NT7TkK1SADmbwaWZDqKiWQ-Qg9Z3_e/view?usp=sharing)**
