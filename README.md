@@ -2,7 +2,7 @@
 
 Datos extraídos del [Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública](https://www.gob.mx/sesnsp) que corresponden a las incidencias delictivas desde **2015** hasta **2020**. 
 
-Los datos se encuentran divididos por tres categorías:
+Se limpiaron los datos por tres categorías:
 
 * Por delito
 * Por entidad
