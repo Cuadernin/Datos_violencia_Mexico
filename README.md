@@ -15,6 +15,8 @@ Documento elaborado con la ayuda de los datos anteriores: [_Pronóstico de femin
 Dashboard creado en Power BI con los datos anteriores: [_Vista Previa_](https://github.com/Cuadernin/Datos_violencia_Mexico/blob/main/Reporte_violencia/Vista%20previa/Reporte.MD)
 
 ## Descarga
-**[Descargar datos](https://drive.google.com/file/d/1v9NT7TkK1SADmbwaWZDqKiWQ-Qg9Z3_e/view?usp=sharing)**
+Descarga directa: **[Descargar datos](https://drive.google.com/file/d/1v9NT7TkK1SADmbwaWZDqKiWQ-Qg9Z3_e/view?usp=sharing)** 
+
+También puedes descargar y visualizar los datos (sin descargar) desde [kaggle](https://www.kaggle.com/wansxpha/violenca-mexico)
 
 
