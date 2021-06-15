@@ -13,7 +13,7 @@ Dentro de cada categoría hay una carpeta que corresponde al año.
 ## Descarga
 Descarga directa: **[Descargar datos](https://drive.google.com/file/d/1v9NT7TkK1SADmbwaWZDqKiWQ-Qg9Z3_e/view?usp=sharing)** 
 
-También puedes descargar y visualizar los datos (sin descargar) desde [kaggle](https://www.kaggle.com/wansxpha/violenca-mexico)
+También puedes descargar y visualizar los datos (sin descargar) desde [Kaggle](https://www.kaggle.com/wansxpha/violenca-mexico)
 
 ## Trabajos elaborados con los datos anteriores
 Documento elaborado junto con mi compañera de vida (Atzhiry Montaño): [_Pronóstico de feminicidios en México usando Holt-Winters_](https://github.com/Cuadernin) \
