@@ -16,7 +16,7 @@ Descarga directa: **[Descargar datos](https://drive.google.com/file/d/1v9NT7TkK1
 También puedes descargar y visualizar los datos (sin descargar) desde [Kaggle](https://www.kaggle.com/wansxpha/violenca-mexico)
 
 ## Proyectos elaborados con los datos anteriores
-Proyecto de investigación elaborado junto con mi compañera de vida (Atzhiry Montaño): [_Pronóstico de feminicidios en México usando Holt-Winters_](https://drive.google.com/file/d/10mAaHSI0MztqQPsf8l7F1dru8MBFe4HI/view?usp=sharing) \
+Proyecto de investigación elaborado junto con mi compañera de vida (Atzhiry Montaño): [_Pronóstico de feminicidios en México usando Holt-Winters_](https://drive.google.com/file/d/1g4SUQfp3u-Yg88-mlhpoZuVwtvTmZu2Y/view?usp=sharing) \
 Reporte creado en Power BI: [_Vista Previa_](https://github.com/Cuadernin/Datos_violencia_Mexico/blob/main/Reporte_violencia/Vista%20previa/Reporte.MD) - [Archivo](https://github.com/Cuadernin/Datos_violencia_Mexico/blob/main/Reporte_violencia/Violencia_mexico.pbix)
 
 
